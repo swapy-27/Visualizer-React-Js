@@ -1,0 +1,19 @@
+.navbar{
+    background-color: rgb(41, 21, 33);    
+    height:15vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nav_container{
+    height:60px;
+    width:max-content;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
+
+#sort{
+    /* display: none; */
+}

@@ -1,0 +1,10 @@
+.App{
+  margin:0;
+  padding:0;  
+}
+.bar{
+  width: 5px;
+  margin:2px;
+  background-color: aquamarine;
+  min-height: 5px;
+}
